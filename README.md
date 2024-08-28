@@ -8,7 +8,7 @@
 * 🚀 Experience: Comprehensive background in designing, coding, and delivering robust software solutions
 * 🎯 Current Focus: Streamlining development processes using serverless architecture, optimizing cloud deployments, and leading engineering teams by example
 
-###🛠️ Tools & Technologies:
+### 🛠️ Tools & Technologies:
 
 <ul>
 <li>Languages: Java, JavaScript, TypeScript, HTML, CSS</li>
